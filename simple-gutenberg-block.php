@@ -8,7 +8,7 @@
  * Author URI: https://sohilchamadia8.wordpress.com/
  */
 
-define('SG_BLOCK_URL_PATH', plugins_url('simple-gutenberg-block'));
+define('SG_BLOCK_URL_PATH', plugins_url('sc-gutenberg-block'));
 
 add_action('init', 'gutenberg_custom_block');
 
